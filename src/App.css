@@ -1,0 +1,22 @@
+body {
+  font-family: "Open Sans";
+}
+@media screen and (max-width: 1024px) {
+  .khung1 {
+    transform: translateX(170px);
+  }
+  .khung2 {
+    transform: translateX(170px);
+  }
+  .cacnut {
+    transform: translateX(-100px);
+  }
+}
+@media screen and (max-width: 768px) {
+}
+@media screen and (max-width: 680px) {
+}
+@media screen and (max-width: 480px) {
+}
+@media screen and (max-width: 320px) {
+}
